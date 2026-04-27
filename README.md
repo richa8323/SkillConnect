@@ -157,9 +157,4 @@ pip freeze > requirements.txt
 
 This project is open source and available under the [MIT License](LICENSE).
 
----
 
-## 👤 Author
-
-**Your Name**
-- GitHub: [@your-username](https://github.com/richa8323)
